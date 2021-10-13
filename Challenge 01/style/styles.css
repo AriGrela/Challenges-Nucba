@@ -1,0 +1,114 @@
+body {
+    background-color:#dadde1;
+}
+.content-box {
+    color: white;
+    background: white;
+    width: 432px;
+    height: 399px;
+    padding: 4px;
+    margin: auto ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 25px;
+    margin-top: 60px;
+
+   
+}
+
+
+
+.border-box {
+    flex: 0 0 110px;
+    text-align: center;
+}
+
+.cookies {
+
+    padding-inline: 40px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+   }
+
+.boton1 {
+    background-color: #ED6755;
+    border: none;
+    color: white;
+    padding: 16px 49px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 17px;
+    }
+
+.content-box:before{
+    position:relative;
+    content:"\2715";
+    font-size:22px;
+    color:lightgray;
+    font-weight:bold;
+    top: -28px;
+    right: 10px;
+    left: 175px;
+   
+}
+  
+.content-box1 {
+    color: white;
+    background: white;
+    width: 432px;
+    height: 399px;
+    padding: 4px;
+    margin: auto ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 25px;
+    margin-top: 30px;
+
+   
+}
+
+
+
+.border-box1 {
+    flex: 0 0 110px;
+    text-align: center;
+}
+
+.cookies1 {
+
+    padding-inline: 60px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+   }
+
+.boton2 {
+    background-color:#2c3E50;
+    border: none;
+    color: white;
+    padding: 16px 49px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 17px;
+    }
+
+.content-box1:before{
+    position:relative;
+    content:"\2715";
+    font-size:22px;
+    color:lightgray;
+    font-weight:bold;
+    top: -45px;
+    right: 10px;
+    left: 175px;
+   
+}
